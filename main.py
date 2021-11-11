@@ -31,6 +31,7 @@ class Window(QWidget):
 
         self.setLayout(vbox)
 
+
         # window 셋팅
         self.setGeometry(600, 500, 300, 200)
         self.setWindowTitle("Crawling_oord")
